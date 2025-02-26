@@ -3,7 +3,7 @@
     position: relative;
     max-width: 100%;
     width: 640px; /* Фиксированная ширина */
-    height: 300px; /* Измените это значение на нужное вам */
+    height: 250px; /* Измените это значение на нужное вам */
     margin: 0 auto;
     overflow: hidden;
     border-radius: 10px;
